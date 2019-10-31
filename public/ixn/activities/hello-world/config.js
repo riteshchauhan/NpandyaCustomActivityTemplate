@@ -50,7 +50,7 @@ define([], function(){
 
         "edit": {
             "uri": "https://helloworldcustactdemo.herokuapp.com/ixn/activities/hello-world/",
-            "height": 400,
+            "height": 399,
             "width": 500
         }
 };
